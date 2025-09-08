@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>BULAC_BIULO_CHI_1140_0006.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="Page_Number"/>
+    <OtherTag ID="TYPE_2" LABEL="Marginalia_PageNumber"/>
+    <OtherTag ID="TYPE_3" LABEL="Marginalia_Metadata"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="804" HEIGHT="1416" PHYSICAL_IMG_NR="0" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="804" HEIGHT="1416">
+        <TextBlock ID="block_1" HPOS="747" VPOS="549" WIDTH="33" HEIGHT="562" TAGREFS="TYPE_3">
+          <Shape>
+            <Polygon POINTS="749 549 747 551 747 1104 749 1106 749 1108 751 1111 760 1111 762 1108 765 1108 767 1106 769 1106 769 1104 771 1102 771 974 773 971 773 675 776 673 776 650 778 648 778 608 780 606 780 602 778 599 778 569 780 566 780 553 776 549"/>
+          </Shape>
+          <TextLine ID="line_0" HPOS="756" VPOS="736" WIDTH="26" HEIGHT="43" BASELINE="769 736 769 779" TAGREFS="TYPE_1">
+            <Shape>
+              <Polygon POINTS="757 736 756 737 756 776 758 779 775 779 776 777 781 777 781 773 782 771 782 737 781 736"/>
+            </Shape>
+            <String ID="segment_0" CONTENT="一" HPOS="758" VPOS="779" WIDTH="11" HEIGHT="0" WC="0.3331">
+              <Shape>
+                <Polygon POINTS="769 779 758 779 758 779 769 779"/>
+              </Shape>
+              <Glyph ID="char_0" CONTENT="一" HPOS="758" VPOS="779" WIDTH="11" HEIGHT="0" GC="0.3331">
+                <Shape>
+                  <Polygon POINTS="769 779 758 779 758 779 769 779"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_1" HPOS="750" VPOS="984" WIDTH="32" HEIGHT="43" BASELINE="766 984 766 1027" TAGREFS="TYPE_1">
+            <Shape>
+              <Polygon POINTS="752 984 750 986 750 1026 752 1027 778 1027 779 1026 781 1026 781 1023 782 1022 782 987 779 984"/>
+            </Shape>
+            <String ID="segment_1" CONTENT="一" HPOS="752" VPOS="1027" WIDTH="15" HEIGHT="0" WC="0.9865">
+              <Shape>
+                <Polygon POINTS="766 1027 752 1027 752 1027 766 1027"/>
+              </Shape>
+              <Glyph ID="char_1" CONTENT="一" HPOS="752" VPOS="1027" WIDTH="15" HEIGHT="0" GC="0.9865">
+                <Shape>
+                  <Polygon POINTS="766 1027 752 1027 752 1027 766 1027"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

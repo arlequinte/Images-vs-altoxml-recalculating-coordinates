@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>BULAC_BIULO_CHI_1140_0007.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="Page_Number"/>
+    <OtherTag ID="TYPE_2" LABEL="Title"/>
+    <OtherTag ID="TYPE_3" LABEL="Text"/>
+    <OtherTag ID="TYPE_4" LABEL="Marginalia_Metadata"/>
+    <OtherTag ID="TYPE_5" LABEL="MainText_TableOfContents"/>
+    <OtherTag ID="TYPE_6" LABEL="MainText"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="813" HEIGHT="1418" PHYSICAL_IMG_NR="0" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="813" HEIGHT="1418">
+        <TextBlock ID="block_0" HPOS="34" VPOS="541" WIDTH="27" HEIGHT="558" TAGREFS="TYPE_4">
+          <Shape>
+            <Polygon POINTS="36 541 34 543 34 1094 36 1097 36 1099 54 1099 58 1094 58 811 61 809 61 742 58 740 58 543 56 541"/>
+          </Shape>
+          <TextLine ID="line_0" HPOS="19" VPOS="559" WIDTH="43" HEIGHT="93" BASELINE="40 559 40 652" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="20 559 19 561 19 649 22 652 52 652 53 651 59 651 59 648 60 647 60 620 62 619 62 615 60 613 60 588 62 587 62 584 60 583 60 565 59 563 59 562 53 562 52 561 45 561 43 559"/>
+            </Shape>
+            <String ID="segment_0" CONTENT="求" HPOS="22" VPOS="652" WIDTH="18" HEIGHT="0" WC="0.6478">
+              <Shape>
+                <Polygon POINTS="40 652 22 652 22 652 40 652"/>
+              </Shape>
+              <Glyph ID="char_0" CONTENT="求" HPOS="22" VPOS="652" WIDTH="18" HEIGHT="0" GC="0.6478">
+                <Shape>
+                  <Polygon POINTS="40 652 22 652 22 652 40 652"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_1" HPOS="19" VPOS="720" WIDTH="48" HEIGHT="154" BASELINE="43 720 43 874" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="20 720 19 721 19 871 22 874 23 874 24 872 32 872 34 874 48 874 49 872 64 872 66 871 66 861 67 860 67 723 64 720"/>
+            </Shape>
+            <String ID="segment_1" CONTENT="博物志" HPOS="19" VPOS="776" WIDTH="48" HEIGHT="98" WC="0.9844">
+              <Shape>
+                <Polygon POINTS="67 776 19 776 22 874 43 874"/>
+              </Shape>
+              <Glyph ID="char_1" CONTENT="博" HPOS="19" VPOS="776" WIDTH="48" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="67 776 19 776 19 776 67 776"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_2" CONTENT="物" HPOS="19" VPOS="815" WIDTH="48" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="67 815 19 815 19 815 67 815"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_3" CONTENT="志" HPOS="22" VPOS="874" WIDTH="21" HEIGHT="0" GC="0.9531">
+                <Shape>
+                  <Polygon POINTS="43 874 22 874 22 874 43 874"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_2" HPOS="19" VPOS="975" WIDTH="36" HEIGHT="43" BASELINE="37 975 37 1018" TAGREFS="TYPE_1">
+            <Shape>
+              <Polygon POINTS="20 975 19 976 19 1016 20 1018 49 1018 51 1016 53 1016 53 1013 55 1012 55 1007 53 1005 53 996 55 994 55 989 53 987 53 979 55 978 53 976 52 976 51 975"/>
+            </Shape>
+            <String ID="segment_2" CONTENT="一" HPOS="20" VPOS="1018" WIDTH="17" HEIGHT="0" WC="0.9987">
+              <Shape>
+                <Polygon POINTS="37 1018 20 1018 20 1018 37 1018"/>
+              </Shape>
+              <Glyph ID="char_4" CONTENT="一" HPOS="20" VPOS="1018" WIDTH="17" HEIGHT="0" GC="0.9987">
+                <Shape>
+                  <Polygon POINTS="37 1018 20 1018 20 1018 37 1018"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="block_1" HPOS="70" VPOS="301" WIDTH="693" HEIGHT="959" TAGREFS="TYPE_5">
+          <Shape>
+            <Polygon POINTS="74 301 70 306 70 1254 72 1256 72 1258 74 1261 76 1261 78 1258 105 1258 107 1261 109 1261 112 1258 202 1258 205 1256 650 1256 652 1258 661 1258 663 1256 708 1256 710 1258 750 1258 752 1256 754 1256 757 1254 757 1252 759 1250 759 1230 761 1228 761 1165 763 1163 763 1035 761 1032 761 911 759 908 759 873 761 871 761 853 759 851 759 809 761 806 761 733 763 731 763 685 761 682 761 461 763 458 763 436 761 434 761 341 763 339 763 319 761 317 761 306 759 303 754 303 752 301"/>
+          </Shape>
+          <TextLine ID="line_3" HPOS="694" VPOS="304" WIDTH="64" HEIGHT="197" BASELINE="726 304 726 501" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="697 304 694 307 694 352 696 353 696 404 694 406 694 497 696 498 696 500 697 501 722 501 723 500 736 500 738 501 752 501 754 500 754 498 755 497 755 492 757 490 757 475 755 473 755 461 757 460 757 450 755 448 755 418 757 417 757 400 755 399 755 364 757 363 757 341 758 339 758 307 757 306 755 306 754 304"/>
+            </Shape>
+            <String ID="segment_3" CONTENT="博物志目錄" HPOS="694" VPOS="339" WIDTH="64" HEIGHT="162" WC="0.9994">
+              <Shape>
+                <Polygon POINTS="758 339 694 339 697 501 726 501"/>
+              </Shape>
+              <Glyph ID="char_5" CONTENT="博" HPOS="694" VPOS="339" WIDTH="64" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="758 339 694 339 694 339 758 339"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_6" CONTENT="物" HPOS="696" VPOS="382" WIDTH="59" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="755 382 696 382 696 382 755 382"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_7" CONTENT="志" HPOS="694" VPOS="420" WIDTH="61" HEIGHT="0" GC="0.9998">
+                <Shape>
+                  <Polygon POINTS="755 420 694 420 694 420 755 420"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_8" CONTENT="目" HPOS="694" VPOS="459" WIDTH="62" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="757 459 694 459 694 459 757 459"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_9" CONTENT="錄" HPOS="697" VPOS="501" WIDTH="29" HEIGHT="0" GC="0.9974">
+                <Shape>
+                  <Polygon POINTS="726 501 697 501 697 501 726 501"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_4" HPOS="628" VPOS="343" WIDTH="68" HEIGHT="65" BASELINE="662 343 662 408" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="629 343 628 345 628 406 631 408 690 408 692 407 693 407 694 406 694 404 696 403 696 395 694 393 694 357 693 356 693 345 692 343"/>
+            </Shape>
+            <String ID="segment_4" CONTENT="卷一" HPOS="628" VPOS="381" WIDTH="66" HEIGHT="28" WC="0.9975">
+              <Shape>
+                <Polygon POINTS="694 381 628 381 631 408 662 408"/>
+              </Shape>
+              <Glyph ID="char_10" CONTENT="卷" HPOS="628" VPOS="381" WIDTH="66" HEIGHT="0" GC="0.9951">
+                <Shape>
+                  <Polygon POINTS="694 381 628 381 628 381 694 381"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_11" CONTENT="一" HPOS="631" VPOS="408" WIDTH="31" HEIGHT="0" GC="0.9999">
+                <Shape>
+                  <Polygon POINTS="662 408 631 408 631 408 662 408"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_5" HPOS="572" VPOS="382" WIDTH="76" HEIGHT="674" BASELINE="611 382 611 1057" TAGREFS="TYPE_3">
+            <Shape>
+              <Polygon POINTS="585 382 582 385 582 388 584 389 584 418 582 419 582 421 579 424 578 422 574 422 574 424 572 425 572 1054 574 1055 581 1055 582 1057 646 1057 649 1054 649 964 648 962 648 961 649 960 649 424 648 422 648 417 646 417 645 415 643 415 642 414 639 414 638 412 635 412 633 414 629 414 628 412 628 410 627 408 627 385 624 382"/>
+            </Shape>
+            <String ID="segment_5" CONTENT="地理略自魏氏日己前夏禹治四方而制之" HPOS="572" VPOS="418" WIDTH="76" HEIGHT="638" WC="0.9759">
+              <Shape>
+                <Polygon POINTS="648 418 584 418 582 1057 611 1057"/>
+              </Shape>
+              <Glyph ID="char_12" CONTENT="地" HPOS="584" VPOS="418" WIDTH="64" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="648 418 584 418 584 418 648 418"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_13" CONTENT="理" HPOS="572" VPOS="459" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 459 572 459 572 459 649 459"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_14" CONTENT="略" HPOS="572" VPOS="495" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 495 572 495 572 495 649 495"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_15" CONTENT="自" HPOS="572" VPOS="536" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 536 572 536 572 536 649 536"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_16" CONTENT="魏" HPOS="572" VPOS="582" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 582 572 582 572 582 649 582"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_17" CONTENT="氏" HPOS="572" VPOS="617" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 617 572 617 572 617 649 617"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_18" CONTENT="日" HPOS="572" VPOS="653" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 653 572 653 572 653 649 653"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_19" CONTENT="己" HPOS="572" VPOS="694" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 694 572 694 572 694 649 694"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_20" CONTENT="前" HPOS="572" VPOS="735" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 735 572 735 572 735 649 735"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_21" CONTENT="夏" HPOS="572" VPOS="776" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 776 572 776 572 776 649 776"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_22" CONTENT="禹" HPOS="572" VPOS="812" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 812 572 812 572 812 649 812"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_23" CONTENT="治" HPOS="572" VPOS="852" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 852 572 852 572 852 649 852"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_24" CONTENT="四" HPOS="572" VPOS="893" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 893 572 893 572 893 649 893"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_25" CONTENT="方" HPOS="572" VPOS="929" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 929 572 929 572 929 649 929"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_26" CONTENT="而" HPOS="572" VPOS="970" WIDTH="76" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="649 970 572 970 572 970 649 970"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_27" CONTENT="制" HPOS="572" VPOS="1011" WIDTH="76" HEIGHT="0" GC="0.5901">
+                <Shape>
+                  <Polygon POINTS="649 1011 572 1011 572 1011 649 1011"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_28" CONTENT="之" HPOS="582" VPOS="1057" WIDTH="28" HEIGHT="0" GC="0.9999">
+                <Shape>
+                  <Polygon POINTS="611 1057 582 1057 582 1057 611 1057"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_6" HPOS="523" VPOS="388" WIDTH="59" HEIGHT="36" BASELINE="552 388 552 424" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="526 388 523 390 523 418 524 419 524 421 526 422 528 422 530 424 542 424 543 422 567 422 568 424 570 424 571 422 581 422 581 421 582 419 582 393 581 392 581 389 579 389 578 388"/>
+            </Shape>
+            <String ID="segment_6" CONTENT="地" HPOS="530" VPOS="424" WIDTH="23" HEIGHT="0" WC="0.9994">
+              <Shape>
+                <Polygon POINTS="552 424 530 424 530 424 552 424"/>
+              </Shape>
+              <Glyph ID="char_29" CONTENT="地" HPOS="530" VPOS="424" WIDTH="23" HEIGHT="0" GC="0.9994">
+                <Shape>
+                  <Polygon POINTS="552 424 530 424 530 424 552 424"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_7" HPOS="467" VPOS="388" WIDTH="54" HEIGHT="38" BASELINE="494 388 494 425" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="469 388 467 389 467 424 469 425 520 425 521 424 521 389 520 388"/>
+            </Shape>
+            <String ID="segment_7" CONTENT="山" HPOS="469" VPOS="425" WIDTH="25" HEIGHT="0" WC="0.9979">
+              <Shape>
+                <Polygon POINTS="494 425 469 425 469 425 494 425"/>
+              </Shape>
+              <Glyph ID="char_30" CONTENT="山" HPOS="469" VPOS="425" WIDTH="25" HEIGHT="0" GC="0.9979">
+                <Shape>
+                  <Polygon POINTS="494 425 469 425 469 425 494 425"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_8" HPOS="412" VPOS="388" WIDTH="53" HEIGHT="38" BASELINE="438 388 438 425" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="413 388 412 389 412 424 413 425 459 425 460 424 462 424 463 422 463 407 465 406 465 389 462 389 460 388"/>
+            </Shape>
+            <String ID="segment_8" CONTENT="水" HPOS="413" VPOS="425" WIDTH="25" HEIGHT="0" WC="0.9985">
+              <Shape>
+                <Polygon POINTS="438 425 413 425 413 425 438 425"/>
+              </Shape>
+              <Glyph ID="char_31" CONTENT="水" HPOS="413" VPOS="425" WIDTH="25" HEIGHT="0" GC="0.9985">
+                <Shape>
+                  <Polygon POINTS="438 425 413 425 413 425 438 425"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_9" HPOS="351" VPOS="388" WIDTH="65" HEIGHT="154" BASELINE="383 388 383 541" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="352 388 351 389 351 538 354 541 409 541 411 540 415 540 415 538 416 537 416 433 415 432 415 428 413 426 412 426 411 425 409 425 408 424 408 414 409 412 409 392 411 390 409 389 408 389 407 388"/>
+            </Shape>
+            <String ID="segment_9" CONTENT="山水總論" HPOS="351" VPOS="423" WIDTH="65" HEIGHT="118" WC="0.9994">
+              <Shape>
+                <Polygon POINTS="408 423 351 423 354 541 383 541"/>
+              </Shape>
+              <Glyph ID="char_32" CONTENT="山" HPOS="351" VPOS="423" WIDTH="57" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="408 423 351 423 351 423 408 423"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_33" CONTENT="水" HPOS="351" VPOS="458" WIDTH="65" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="416 458 351 458 351 458 416 458"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_34" CONTENT="總" HPOS="351" VPOS="502" WIDTH="65" HEIGHT="0" GC="0.9999">
+                <Shape>
+                  <Polygon POINTS="416 502 351 502 351 502 416 502"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_35" CONTENT="論" HPOS="354" VPOS="541" WIDTH="30" HEIGHT="0" GC="0.9975">
+                <Shape>
+                  <Polygon POINTS="383 541 354 541 354 541 383 541"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_10" HPOS="285" VPOS="388" WIDTH="65" HEIGHT="158" BASELINE="317 388 317 546" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="287 388 285 390 285 403 286 404 286 472 285 473 285 540 286 541 286 544 287 546 311 546 312 544 329 544 330 546 347 546 348 544 348 541 350 540 350 490 348 489 348 390 347 389 346 389 344 388 297 388 296 389 294 389 293 390 292 390 290 389 289 389"/>
+            </Shape>
+            <String ID="segment_10" CONTENT="五方人氏" HPOS="285" VPOS="423" WIDTH="65" HEIGHT="123" WC="0.9994">
+              <Shape>
+                <Polygon POINTS="348 423 286 423 287 546 317 546"/>
+              </Shape>
+              <Glyph ID="char_36" CONTENT="五" HPOS="286" VPOS="423" WIDTH="62" HEIGHT="0" GC="0.9999">
+                <Shape>
+                  <Polygon POINTS="348 423 286 423 286 423 348 423"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_37" CONTENT="方" HPOS="286" VPOS="458" WIDTH="62" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="348 458 286 458 286 458 348 458"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_38" CONTENT="人" HPOS="285" VPOS="493" WIDTH="65" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="350 493 285 493 285 493 350 493"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_39" CONTENT="氏" HPOS="287" VPOS="546" WIDTH="30" HEIGHT="0" GC="0.9979">
+                <Shape>
+                  <Polygon POINTS="317 546 287 546 287 546 317 546"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_11" HPOS="235" VPOS="388" WIDTH="57" HEIGHT="82" BASELINE="263 388 263 469" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="238 388 235 390 235 467 238 469 257 469 258 468 261 468 262 469 278 469 279 468 290 468 292 467 292 464 290 462 290 395 292 393 292 390 290 389 289 389 287 388"/>
+            </Shape>
+            <String ID="segment_11" CONTENT="物產" HPOS="235" VPOS="419" WIDTH="55" HEIGHT="51" WC="0.9071">
+              <Shape>
+                <Polygon POINTS="290 419 235 419 238 469 263 469"/>
+              </Shape>
+              <Glyph ID="char_40" CONTENT="物" HPOS="235" VPOS="419" WIDTH="55" HEIGHT="0" GC="0.9992">
+                <Shape>
+                  <Polygon POINTS="290 419 235 419 235 419 290 419"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_41" CONTENT="產" HPOS="238" VPOS="469" WIDTH="26" HEIGHT="0" GC="0.815">
+                <Shape>
+                  <Polygon POINTS="263 469 238 469 238 469 263 469"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_12" HPOS="174" VPOS="343" WIDTH="60" HEIGHT="83" BASELINE="203 343 203 426" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="177 343 174 346 174 422 175 424 175 426 226 426 228 425 229 425 232 422 232 419 233 418 233 411 232 410 232 403 231 402 231 400 232 399 232 386 233 385 233 350 232 349 232 346 231 345 229 345 228 343"/>
+            </Shape>
+            <String ID="segment_12" CONTENT="卷二" HPOS="174" VPOS="385" WIDTH="59" HEIGHT="41" WC="0.9995">
+              <Shape>
+                <Polygon POINTS="233 385 174 385 175 426 203 426"/>
+              </Shape>
+              <Glyph ID="char_42" CONTENT="卷" HPOS="174" VPOS="385" WIDTH="59" HEIGHT="0" GC="0.999">
+                <Shape>
+                  <Polygon POINTS="233 385 174 385 174 385 233 385"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_43" CONTENT="二" HPOS="175" VPOS="426" WIDTH="28" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="203 426 175 426 175 426 203 426"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_13" HPOS="118" VPOS="388" WIDTH="58" HEIGHT="80" BASELINE="148 388 148 468" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="120 388 118 389 118 464 120 465 120 468 124 468 125 467 133 467 135 465 154 465 156 467 167 467 168 468 170 468 175 462 175 458 177 457 177 454 175 453 175 428 174 426 174 422 172 421 172 395 171 393 171 389 168 389 167 388"/>
+            </Shape>
+            <String ID="segment_13" CONTENT="外國" HPOS="118" VPOS="420" WIDTH="54" HEIGHT="48" WC="0.9998">
+              <Shape>
+                <Polygon POINTS="172 420 118 420 120 468 148 468"/>
+              </Shape>
+              <Glyph ID="char_44" CONTENT="外" HPOS="118" VPOS="420" WIDTH="54" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="172 420 118 420 118 420 172 420"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_45" CONTENT="國" HPOS="120" VPOS="468" WIDTH="28" HEIGHT="0" GC="0.9996">
+                <Shape>
+                  <Polygon POINTS="148 468 120 468 120 468 148 468"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+          <TextLine ID="line_14" HPOS="63" VPOS="382" WIDTH="54" HEIGHT="86" BASELINE="90 382 90 468" TAGREFS="TYPE_2">
+            <Shape>
+              <Polygon POINTS="64 382 63 383 63 465 64 467 64 468 75 468 77 467 88 467 89 465 102 465 103 467 106 467 107 465 114 465 116 464 116 461 117 460 117 453 116 451 116 421 117 419 117 406 116 404 116 385 114 383 113 383 112 382"/>
+            </Shape>
+            <String ID="segment_14" CONTENT="異人" HPOS="63" VPOS="423" WIDTH="53" HEIGHT="44" WC="0.9996">
+              <Shape>
+                <Polygon POINTS="116 423 63 423 64 468 90 468"/>
+              </Shape>
+              <Glyph ID="char_46" CONTENT="異" HPOS="63" VPOS="423" WIDTH="53" HEIGHT="0" GC="1.0">
+                <Shape>
+                  <Polygon POINTS="116 423 63 423 63 423 116 423"/>
+                </Shape>
+              </Glyph>
+              <Glyph ID="char_47" CONTENT="人" HPOS="64" VPOS="468" WIDTH="25" HEIGHT="0" GC="0.9992">
+                <Shape>
+                  <Polygon POINTS="90 468 64 468 64 468 90 468"/>
+                </Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
