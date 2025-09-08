@@ -6,15 +6,13 @@ from glob import iglob
 from PIL import Image
 from PIL.ExifTags import TAGS
 
-# Si jamais c'est plus simple pour récupérer les noms de fichier
-#import re
+import re
 
 def main():
     
     # Application sur multi-fichiers
     # Chemin d'accès du répertoire où sont stockés les fichiers texte
-    # Par défaut, "directory"
-    directory = "/users/anne.bugner/XMLForest/Alto/Calfas/"
+    directory = "" # Par défaut, "directory"
     extension = "alto_in/*.xml"
     
     altofiles = iglob(os.path.join(directory, extension))
@@ -22,8 +20,7 @@ def main():
         if os.path.isfile(altofile):    
         
             # Récupération du nom de fichier, sans répertoire ni extension
-            filename = altofile[-31:]
-            # filename = re.search(r"(?<=directory\/).+(?=\.xml), altofile).group()
+            filename = re.search(r"(?<=directory\/).+(?=\.xml), altofile).group() # Remettre ici le nom du répertoire utilisé à la place de "directory"
 
             # Parser et namespaces
             xml_parser = ET.XMLParser(remove_blank_text=True)
