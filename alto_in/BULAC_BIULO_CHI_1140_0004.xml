@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+    xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>BULAC_BIULO_CHI_1140_0004.jpg</fileName>
+        </sourceImageInformation>
+    </Description>
+    <Tags>
+        <OtherTag ID="TYPE_1" LABEL="Text"/>
+        <OtherTag ID="TYPE_2" LABEL="Marginalia_PageNumber"/>
+        <OtherTag ID="TYPE_3" LABEL="Image"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="2612" HEIGHT="4560" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="2612" HEIGHT="4560">
+                <TextBlock ID="block_1" HPOS="849" VPOS="1824" WIDTH="763" HEIGHT="1560" TAGREFS="TYPE_3">
+                    <Shape>
+                        <Polygon POINTS="857 1824 849 1831 849 3377 857 3384 1605 3384 1612 3377 1612 3092 1605 3085 1605 2907 1612 2899 1612 2337 1605 2329 1605 1852 1598 1845 1598 1831 1583 1831 1576 1824"/>
+                    </Shape>
+                    <TextLine ID="line_0" HPOS="1216" VPOS="1799" WIDTH="370" HEIGHT="1563" BASELINE="1401 1799 1401 3362" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1225 1799 1216 1807 1216 1821 1221 1825 1221 1856 1225 1861 1225 1870 1230 1874 1230 1892 1234 1897 1234 1937 1230 1941 1230 2017 1234 2021 1234 2035 1230 2039 1230 2306 1225 2311 1225 2364 1230 2369 1230 2377 1234 2382 1234 2391 1239 2395 1239 2404 1243 2409 1243 2458 1248 2462 1248 2480 1243 2484 1243 2502 1239 2507 1239 2516 1234 2520 1234 2538 1230 2542 1230 2551 1225 2556 1225 2573 1221 2578 1221 2698 1216 2703 1216 2716 1221 2720 1221 2792 1225 2796 1225 2970 1230 2974 1230 3192 1234 3197 1234 3255 1239 3259 1239 3264 1243 3268 1243 3281 1248 3286 1248 3322 1239 3330 1234 3330 1230 3326 1225 3326 1221 3330 1221 3357 1252 3357 1257 3362 1577 3362 1586 3353 1586 1803 1582 1799"/>
+                        </Shape>
+                        <String ID="segment_0" CONTENT="元緒紀元夏月切" HPOS="1221" VPOS="1998" WIDTH="365" HEIGHT="1364" WC="0.9972">
+                            <Shape>
+                                <Polygon POINTS="1586 1998 1230 1998 1257 3362 1401 3362"/>
+                            </Shape>
+                            <Glyph ID="char_0" CONTENT="元" HPOS="1230" VPOS="1998" WIDTH="356" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1586 1998 1230 1998 1230 1998 1586 1998"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_1" CONTENT="緒" HPOS="1230" VPOS="2221" WIDTH="356" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1586 2221 1230 2221 1230 2221 1586 2221"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_2" CONTENT="紀" HPOS="1248" VPOS="2469" WIDTH="338" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1586 2469 1248 2469 1248 2469 1586 2469"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_3" CONTENT="元" HPOS="1221" VPOS="2668" WIDTH="365" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1586 2668 1221 2668 1221 2668 1586 2668"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_4" CONTENT="夏" HPOS="1225" VPOS="2916" WIDTH="361" HEIGHT="25" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1586 2916 1225 2916 1225 2941 1586 2941"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_5" CONTENT="月" HPOS="1230" VPOS="3115" WIDTH="356" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1586 3115 1230 3115 1230 3115 1586 3115"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_6" CONTENT="切" HPOS="1257" VPOS="3362" WIDTH="144" HEIGHT="0" GC="0.9807">
+                                <Shape>
+                                    <Polygon POINTS="1401 3362 1257 3362 1257 3362 1401 3362"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="line_1" HPOS="860" VPOS="1799" WIDTH="374" HEIGHT="1580" BASELINE="1047 1799 1047 3379" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="865 1799 860 1803 860 2431 865 2435 865 2685 860 2689 860 3375 865 3379 980 3379 985 3375 1208 3375 1212 3371 1225 3371 1230 3366 1230 3362 1234 3357 1234 3313 1230 3308 1230 3295 1225 3290 1225 3277 1221 3273 1221 3259 1216 3255 1216 3179 1221 3175 1221 2988 1225 2983 1225 2961 1221 2956 1221 2912 1216 2907 1216 2867 1212 2863 1212 2836 1208 2832 1208 2783 1203 2778 1203 2756 1199 2752 1199 2600 1203 2596 1203 2435 1208 2431 1208 2382 1203 2377 1203 2315 1208 2311 1208 2297 1203 2293 1203 2239 1199 2235 1199 2199 1203 2195 1203 2164 1208 2159 1208 2128 1212 2124 1212 2084 1216 2079 1216 2048 1212 2043 1212 1959 1216 1954 1216 1852 1221 1848 1221 1816 1225 1812 1225 1807 1221 1803 1208 1803 1203 1799"/>
+                        </Shape>
+                        <String ID="segment_1" CONTENT="北常文書局卿雕" HPOS="860" VPOS="1950" WIDTH="361" HEIGHT="1429" WC="0.9995">
+                            <Shape>
+                                <Polygon POINTS="1216 1950 860 1950 865 3379 1047 3379"/>
+                            </Shape>
+                            <Glyph ID="char_7" CONTENT="北" HPOS="860" VPOS="1950" WIDTH="356" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1216 1950 860 1950 860 1950 1216 1950"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_8" CONTENT="常" HPOS="860" VPOS="2226" WIDTH="339" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1199 2226 860 2226 860 2226 1199 2226"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_9" CONTENT="文" HPOS="860" VPOS="2426" WIDTH="348" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1208 2426 860 2426 860 2426 1208 2426"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_10" CONTENT="書" HPOS="860" VPOS="2728" WIDTH="339" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1199 2728 860 2728 860 2728 1199 2728"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_11" CONTENT="局" HPOS="860" VPOS="2928" WIDTH="361" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1221 2928 860 2928 860 2928 1221 2928"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_12" CONTENT="卿" HPOS="860" VPOS="3129" WIDTH="361" HEIGHT="0" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1221 3129 860 3129 860 3129 1221 3129"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_13" CONTENT="雕" HPOS="865" VPOS="3379" WIDTH="182" HEIGHT="0" GC="0.9964">
+                                <Shape>
+                                    <Polygon POINTS="1047 3379 865 3379 865 3379 1047 3379"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+</TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>
